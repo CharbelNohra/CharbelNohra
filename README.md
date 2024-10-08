@@ -22,6 +22,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Cpp" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-blue?logo=dart"/>
 </p>
 
 <h3>My GitHub contributions summary</h3>
