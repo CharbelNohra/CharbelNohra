@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently working on personal projects and always eager to learn new technologies. <br>👯 II'm looking forward to collaborating with other developers and building meaningful connections in the tech community!
+🔭 Computer Science graduate skilled in building scalable web and mobile applications.
+    Experienced in React, Next.js, Flutter ,Node.js, Express.js, and MySQL. <br>
+👯 II'm looking forward to collaborating with other developers and building meaningful connections in the tech community!
 
 
 ## 🌐 Socials:
