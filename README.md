@@ -2,7 +2,7 @@
 👨‍💻 Software Developer / Full-Stack Developer with hands-on experience building ERP systems using ERPNext (Frappe Framework) with Python and JavaScript.
 I enjoy designing scalable, maintainable solutions for real-world business problems.
 
-Alongside ERP development, I’m passionate about building modern web and mobile applications using Next.js, Flutter, and Node.js.
+Alongside ERP development, I’m passionate about building modern web and mobile applications using Next.js, Flutter, React.js and Node.js.
 I’m always eager to explore new technologies, collaborate with other developers, and continuously improve my craft.
 
 
