@@ -1,15 +1,30 @@
-# 💫 About Me:
-👨‍💻 Software Developer / Full-Stack Developer with hands-on experience building ERP systems using ERPNext (Frappe Framework) with Python and JavaScript.
-I enjoy designing scalable, maintainable solutions for real-world business problems.
+# 👋 Hi, I'm Charbel Nohra
 
-Alongside ERP development, I’m passionate about building modern web and mobile applications using Next.js, Flutter, React.js and Node.js.
-I’m always eager to explore new technologies, collaborate with other developers, and continuously improve my craft.
+## 💫 About Me
+👨‍💻 Software Developer / Full-Stack Developer specializing in **ERP systems using ERPNext (Frappe Framework)** with Python and JavaScript.  
 
+I design and build **scalable, maintainable systems** focused on real-world business workflows, automation, and performance.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ch.nohra04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charbel-nohra04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charbelnohra113@gmail.com) 
+Alongside ERP development, I build modern applications using **Next.js, React, Flutter, and Node.js**.
 
-# 💻 Tech Stack
+🚀 Passionate about solving real problems through clean architecture and efficient systems.
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charbel-nohra04)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ch.nohra04)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charbelnohra113@gmail.com)
+
+---
+
+## 🏢 ERP & Business Systems
+![ERPNext](https://img.shields.io/badge/ERPNext-%2300AEEF.svg?style=flat)
+![Frappe Framework](https://img.shields.io/badge/Frappe%20Framework-0089FF?style=flat)
+
+---
+
+## 💻 Tech Stack
 
 ### 🟨 JavaScript / TypeScript
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -20,10 +35,6 @@ I’m always eager to explore new technologies, collaborate with other developer
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-%230A1F2A.svg?style=flat&logo=shadcn&logoColor=white)
-
-### 🏢 ERP & Business Systems
-![ERPNext](https://img.shields.io/badge/ERPNext-%2300AEEF.svg?style=flat)
-![Frappe Framework](https://img.shields.io/badge/Frappe%20Framework-0089FF?style=flat)
 
 ### 🐍 Python
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -51,28 +62,23 @@ I’m always eager to explore new technologies, collaborate with other developer
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
-### ☕ Java
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+---
 
-### ⚙️ C
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+## 🚀 Featured Projects
 
+- 🏢 **ERP System Customization (ERPNext / Frappe)**  
+  Built custom modules, workflows, and reports tailored for business operations.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats-five-rouge-36.vercel.app/api?username=CharbelNohra&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CharbelNohra&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats-five-rouge-36.vercel.app/api/top-langs/?username=CharbelNohra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🛒 **E-commerce Platform (Next.js + Node.js + MongoDB + Flutter)** *(In Progress)*  
+  Full-stack application with authentication, product management, and scalable backend.  
+  Currently building core features and API integration.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CharbelNohra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CharbelNohra&limit=5&theme=radical&combine_all_yearly_contributions=true)
+- 📱 **Flutter Mobile App**  
+  Cross-platform mobile app with clean architecture and API integration.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CharbelNohra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+![](https://github-readme-stats-five-rouge-36.vercel.app/api?username=CharbelNohra&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats-five-rouge-36.vercel.app/api/top-langs/?username=CharbelNohra&theme=radical&hide_border=false&layout=compact)
