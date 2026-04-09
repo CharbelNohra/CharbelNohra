@@ -69,7 +69,7 @@ Alongside ERP development, I build modern applications using **Next.js, React, F
 - 🏢 **ERP System Customization (ERPNext / Frappe)**  
   Built custom modules, workflows, and reports tailored for business operations.
 
-- 🛒 **E-commerce Platform (Next.js + Node.js + MongoDB + Flutter)** *(In Progress)*  
+- 🛒 **E-commerce Platform (Next.js + Node.js + MongoDB + Flutter)**  
   Full-stack application with authentication, product management, and scalable backend.  
   Currently building core features and API integration.
 
